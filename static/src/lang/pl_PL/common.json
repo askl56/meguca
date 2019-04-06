@@ -1,8 +1,8 @@
 {
 	"format": {
 		"banned": "BANNED BY '%s' FOR %s FOR \"%s\"",
-		"deleted": "DELETED BY '%s'",
-		"imageDeleted": "IMAGE DELETED BY '%s'",
+		"deleted": "''",
+		"imageDeleted": "''",
 		"imageSpoilered": "IMAGE SPOILERED BY '%s'",
 		"newPostsInThread": "%d new posts in thread.",
 		"purgedPost": "POST PURGED BY '%s' FOR \"%s\"",
