@@ -1,0 +1,6 @@
+version: '2'
+services:
+  meguca:
+    image: bakape/meguca
+    ports:
+      - '80:80'
